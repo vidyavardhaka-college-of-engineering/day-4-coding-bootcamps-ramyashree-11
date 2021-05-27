@@ -6,7 +6,7 @@
 //Output: 
 //1   2
 //3   4t
-# include<stdio.h>
+#include<stdio.h>
 int main(){
    /* 2D array declaration*/
    int a[2][3];
