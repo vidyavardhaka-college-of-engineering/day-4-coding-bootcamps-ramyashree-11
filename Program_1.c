@@ -8,7 +8,6 @@
 //Output: 
 //1 5 10 50 123
 #include<stdio.h> 
-
 int main()
 {
   int N,a[10],i;
